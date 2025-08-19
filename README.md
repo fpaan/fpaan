@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Farhan Nugraha Pratama
 
-🎓 Fresh graduate in **Informatics** from Diponegoro University with a strong interest in **Data Analytics, Data Science, and Business Intelligence**.  
+🎓 Fresh graduate in **Computer Science** from Diponegoro University with a strong interest in **Data Analyst, Data Science, and Business Intelligence**.  
 💡 Passionate about turning raw data into insights and building solutions that support business decisions.  
 📊 Experienced in **Python, SQL, Machine Learning, Data Visualization, and Dashboard Development**.  
 
