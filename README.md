@@ -1,40 +1,22 @@
-# Hi there 👋, I'm Farhan Nugraha Pratama
+# Hi there 👋, I'm Farhan Nugraha Pratama  
 
-🎓 Fresh graduate in **Computer Science** from Diponegoro University with a strong interest in **Data Analyst, Data Science, and Business Intelligence**.  
-💡 Passionate about turning raw data into insights and building solutions that support business decisions.  
-📊 Experienced in **Python, SQL, Machine Learning, Data Visualization, and Dashboard Development**.  
+🎓 Fresh graduate in Computer Science from Diponegoro University with a strong interest in Data Science, Data Analyst, Business Intelligence, and Analytics.  
+💻 Experienced with Python, SQL, Machine Learning, Data Visualization (Matplotlib, Seaborn), and Dashboarding (Looker Studio, Streamlit).  
+📊 Passionate about turning data into actionable insights to support decision-making.  
 
----
+## 🔧 Tech Skills  
+- **Programming & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL  
+- **Visualization & Dashboard**: Matplotlib, Seaborn, Streamlit, Looker Studio  
+- **Data Handling**: Data Cleaning, Data Wrangling, Web Scraping  
+- **Tools**: Git, Jupyter Notebook, PostgreSQL  
 
-## 🔧 Skills & Tools
-- **Programming & Analytics**: Python (Pandas, NumPy, Scikit-learn), SQL  
-- **Visualization & BI**: Matplotlib, Seaborn, Looker Studio (Google Data Studio), Power BI  
-- **Machine Learning**: Regression, Classification, Clustering, SVM  
-- **Other Tools**: Git/GitHub, PostgreSQL, Excel, Google Workspace  
+## 📂 Featured Projects  
+- [📈 Sales Data Analysis at Walmart](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)
+- [👥 Customer Segmentation](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)  
+- [🍔 Food Analysis Dashboard](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)
+- [📊 RFM Analysis for Customer Drivers](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)
 
----
-
-## 📂 Portfolio Highlights
-Here are some of my projects (see full list in [Portfolio Repository](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)):
-
-- **[Walmart Sales Data Analysis](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)**  
-  Exploratory data analysis & insights from Walmart sales dataset.  
-- **Customer Segmentation**  
-  Applied clustering techniques to group customers based on purchasing behavior.  
-- **Food Analysis Project**  
-  Data-driven insights on food sales & consumption.  
-- **Web Scraping**  
-  Automated data collection using Python web scraping techniques.  
-- **Dashboard Development**  
-  Built interactive dashboards for visualization and reporting.  
-
----
-
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/farhan-nugraha-pratama/)  
-- 📂 [Portfolio Repository](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)  
-- ✉️ Email: f.paann16@gmail.com
-
----
-
-⭐️ Feel free to explore my repositories, and let’s connect if you’re interested in collaborating or discussing data-driven projects!
+## 📫 Connect with Me  
+- LinkedIn: [linkedin.com/in/farhannugrahapratama](https://linkedin.com/in/farhannugrahapratama)  
+- Medium: [medium.com/@fpaan](https://medium.com/@fpaan)  
+- GitHub: [github.com/fpaan](https://github.com/fpaan)  
