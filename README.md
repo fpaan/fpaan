@@ -10,7 +10,7 @@
 - **Programming & Analytics**: Python (Pandas, NumPy, Scikit-learn), SQL  
 - **Visualization & BI**: Matplotlib, Seaborn, Looker Studio (Google Data Studio), Power BI  
 - **Machine Learning**: Regression, Classification, Clustering, SVM  
-- **Other Tools**: Streamlit, Git/GitHub, PostgreSQL, Excel, Google Workspace  
+- **Other Tools**: Git/GitHub, PostgreSQL, Excel, Google Workspace  
 
 ---
 
