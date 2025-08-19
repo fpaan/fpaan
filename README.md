@@ -6,9 +6,10 @@
 
 ## 🔧 Tech Skills  
 - **Programming & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL  
-- **Visualization & Dashboard**: Matplotlib, Seaborn, Streamlit, Looker Studio  
-- **Data Handling**: Data Cleaning, Data Wrangling, Web Scraping  
-- **Tools**: Git, Jupyter Notebook, PostgreSQL  
+- **Visualization & Dashboard**: Matplotlib, Seaborn, PowerBI 
+- **Machine Learning**: Regression, Classification, Clustering, Support Vector Machine (SVM) 
+- **Data Handling**: Data Cleaning, Data Wrangling, Web Scraping, Exploratory Data Analysis (EDA)
+- **Tools**: Git, Jupyter Notebook, PostgreSQL, Google Colab, Excel
 
 ## 📂 Featured Projects  
 - [📈 Sales Data Analysis at Walmart](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)
