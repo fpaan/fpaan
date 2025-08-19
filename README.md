@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Farhan Nugraha Pratama  
 
 🎓 Fresh graduate in Computer Science from Diponegoro University with a strong interest in Data Science, Data Analyst, Business Intelligence, and Analytics.  
-💻 Experienced with Python, SQL, Machine Learning, Data Visualization (Matplotlib, Seaborn), and Dashboarding (Looker Studio, Streamlit).  
+💻 Experienced with Python, SQL, Machine Learning, Data Visualization (Matplotlib, Seaborn), and Dashboarding (PowerBI).  
 📊 Passionate about turning data into actionable insights to support decision-making.  
 
 ## 🔧 Tech Skills  
