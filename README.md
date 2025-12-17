@@ -36,7 +36,7 @@ I enjoy translating data into actionable insights and supporting decision-making
 - Analyzed historical sales data to identify trends, seasonal patterns, and key sales drivers
 - Built forecasting models to support inventory planning and sales strategy
 - **Tools:** Python, Pandas, AutoGluon  
-🔗 Project Link: [Report (PDF)](ANALYSIS OF SALES DATA AT WALMART.pdf)
+🔗 Project Link: [(PDF)](ANALYSIS%20OF%20SALES%20DATA%20AT%20WALMART.pdf) | 💻 [Notebook](ANALYSIS_OF_SALES_DATA_AT_WALMART.ipynb)
 
 ---
 
