@@ -53,7 +53,7 @@ I enjoy translating data into actionable insights and supporting decision-making
 - Segmented customers based on purchasing behavior
 - Identified high-value and at-risk customer groups
 - **Tools:** Python, KMeans  
-🔗 Project Link: 📄 [Report (PDF)][Customer%20Segmentation.pdf]
+🔗 Project Link: 📄 [Report (PDF)](Customer%20Segmentation.pdf)
 
 ---
 
