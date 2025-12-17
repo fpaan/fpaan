@@ -36,7 +36,7 @@ I enjoy translating data into actionable insights and supporting decision-making
 - Analyzed historical sales data to identify trends, seasonal patterns, and key sales drivers
 - Built forecasting models to support inventory planning and sales strategy
 - **Tools:** Python, Pandas, AutoGluon  
-🔗 Project Link: 📄 [(PDF)](ANALYSIS%20OF%20SALES%20DATA%20AT%20WALMART.pdf) | 💻 [Python](ANALYSIS_OF_SALES_DATA_AT_WALMART.ipynb)
+🔗 Project Link: 📄 [Report](ANALYSIS%20OF%20SALES%20DATA%20AT%20WALMART.pdf) | 💻 [Python](ANALYSIS_OF_SALES_DATA_AT_WALMART.ipynb)
 
 ---
 
@@ -45,7 +45,7 @@ I enjoy translating data into actionable insights and supporting decision-making
 - Built and compared machine learning models to predict delivery duration
 - Translated model results into operational insights
 - **Tools:** Python, Scikit-learn, XGBoost  
-🔗 Project Link: 📄 [Report (PDF)](Project%20Food%20Analysis.pdf) | 💻 [Notebook](Project%20Food%20Analysis.ipynb)
+🔗 Project Link: 📄 [Report](Project%20Food%20Analysis.pdf) | 💻 [Notebook](Project%20Food%20Analysis.ipynb)
 
 ---
 
