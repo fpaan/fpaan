@@ -1,23 +1,79 @@
-# Hi there 👋, I'm Farhan Nugraha Pratama  
+## Hi there 👋, I'm Farhan Nugraha Pratama
 
-🎓 Fresh graduate in Computer Science from Diponegoro University with a strong interest in Data Science, Data Analyst, Business Intelligence, and Analytics.  
-💻 Experienced with Python, SQL, Machine Learning, Data Visualization (Matplotlib, Seaborn), and Dashboarding (PowerBI).  
-📊 Passionate about turning data into actionable insights to support decision-making.  
+Data & Analytics professional with hands-on experience in data analysis, business insights, and AI/ML projects.  
+I enjoy translating data into actionable insights and supporting decision-making across technical and business teams.
 
-## 🔧 Tech Skills  
-- **Programming & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL  
-- **Visualization & Dashboard**: Matplotlib, Seaborn, PowerBI 
-- **Machine Learning**: Regression, Classification, Clustering, Support Vector Machine (SVM) 
-- **Data Handling**: Data Cleaning, Data Wrangling, Web Scraping, Exploratory Data Analysis (EDA)
-- **Tools**: Git, Jupyter Notebook, PostgreSQL, Google Colab, Excel
+🎓 Computer Science graduate from Diponegoro University  
+📍 Tegal, Indonesia | Open to Remote, Hybrid, and On-site Opportunities
 
-## 📂 Featured Projects  
-- [📈 Sales Data Analysis at Walmart](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)
-- [👥 Customer Segmentation](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)  
-- [🍔 Food Analysis Dashboard](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)
-- [📊 RFM Analysis for Customer Drivers](https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst)
+---
 
-## 📫 Connect with Me  
-- LinkedIn: [linkedin.com/in/farhannugrahapratama](https://linkedin.com/in/farhannugrahapratama)  
-- Medium: [medium.com/@fpaan](https://medium.com/@fpaan)  
-- GitHub: [github.com/fpaan](https://github.com/fpaan)  
+## 🔧 Core Skills
+
+**Data & Analytics**
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL (CTE, Subquery, Window Function)
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Feature Engineering
+
+**Machine Learning**
+- Regression, Classification, Clustering, Autoluon
+- Model comparison & evaluation
+
+**Business & Visualization**
+- Power BI / Looker Studio
+- Insight & recommendation delivery
+- Dashboard-driven analysis
+
+**Tools**
+- Git, Jupyter Notebook, PostgreSQL, Google Colab, Excel
+
+---
+
+## 📊 Featured Projects
+
+### 🏬 Sales Analysis & Forecasting – Walmart
+- Analyzed historical sales data to identify trends, seasonal patterns, and key sales drivers
+- Built forecasting models to support inventory planning and sales strategy
+- **Tools:** Python, Pandas, AutoGluon  
+🔗 Project Link: https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst
+
+---
+
+### 🍔 Food Delivery Time Analysis & Prediction
+- Identified operational factors affecting delivery time
+- Built and compared machine learning models to predict delivery duration
+- Translated model results into operational insights
+- **Tools:** Python, Scikit-learn, XGBoost  
+🔗 Project Link: https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst
+
+---
+
+### 👥 Customer Segmentation (RFM & Clustering)
+- Segmented customers based on purchasing behavior
+- Identified high-value and at-risk customer groups
+- **Tools:** Python, KMeans  
+🔗 Project Link: https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst
+
+---
+
+### 📈 RFM Drivers Analysis
+- Analyzed drivers behind customer value using RFM metrics
+- Identified behavioral patterns affecting customer engagement
+- Delivered insights to support retention and marketing strategy
+- **Tools:** Python, Pandas, RFM Analysis  
+🔗 [Project Link]: https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst
+
+---
+
+## 🎯 What I Can Contribute
+- Data-driven insights for business decisions
+- Structured analysis from problem definition to delivery
+- Collaboration between technical and non-technical stakeholders
+- Support AI/ML projects from analytical and coordination perspectives
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/farhannugrahapratama
+- Medium: https://medium.com/@fpaan
