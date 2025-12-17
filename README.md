@@ -36,7 +36,7 @@ I enjoy translating data into actionable insights and supporting decision-making
 - Analyzed historical sales data to identify trends, seasonal patterns, and key sales drivers
 - Built forecasting models to support inventory planning and sales strategy
 - **Tools:** Python, Pandas, AutoGluon  
-🔗 Project Link: https://github.com/fpaan/Portfolio-of-Data-Science-and-Data-Analyst
+🔗 Project Link: [Report (PDF)](Customer%20Segmentation.pdf)
 
 ---
 
